@@ -1,2 +1,2 @@
 # cloudyJB
-RootlessJB with customised UI
+rootlessJB with customised UI
